@@ -1,1 +1,5 @@
 train.json
+models/*
+train.csv
+train_subset.csv
+eval_subset.csv
